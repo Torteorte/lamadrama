@@ -86,7 +86,7 @@ margin-top: 20px;
 .contacts li {
 height: 30px;
 font-size: 18px;
-width: 150px;
+width: 250px;
 opacity: 0;
 text-decoration: none;
 display: block;
@@ -95,6 +95,7 @@ background-color: rgba(16, 52, 92, 0.2);
 border-bottom: 2px solid black;
 transition-duration: 0.75s;
 border-radius: 5px;
+text-transform:lowercase;
 }
 
 .contacts a {
